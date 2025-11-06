@@ -35,3 +35,8 @@ Data Organization Logic
 Example output:
 
 <img width="1363" height="635" alt="image" src="https://github.com/user-attachments/assets/c08f9731-b362-434e-807b-f447e2be06a9" />
+
+Author
+
+Harsh Jesvani
+Beginner Python Developer | Exploring Data Analytics & Problem Solving
