@@ -38,5 +38,5 @@ Example output:
 
 Author
 
-Harsh Jesvani
+Harsh Jesvani.
 Beginner Python Developer | Exploring Data Analytics & Problem Solving
